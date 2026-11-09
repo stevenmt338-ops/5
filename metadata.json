@@ -1,0 +1,6 @@
+{
+  "name": "المليونير: المستقبل | من سيربح المليون؟",
+  "description": "لعبة المسابقات التلفزيونية الشهيرة من سيربح المليون بنسختها المستقبلية بالجنيه المصري ومذيع افتراضي تفاعلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
